@@ -1,0 +1,12 @@
+<html>
+    <body>
+   	<script type="text/javascript">
+   		var num = prompt('Enter a number: ');
+   		var total = 0;
+   		for(var i=1;i<=num;i++){
+   			total=total +i;
+   			document.write(total +'<br>');
+   		}
+   	</script>
+    </body>
+</html>
